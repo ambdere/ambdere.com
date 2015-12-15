@@ -342,6 +342,10 @@ input {
 	width: 56px;
 }
 
+#social p {
+	color: white;
+}
+
 /* HEADER 2 - PORTFOLIO SECTION */
 #h2 {
 	background: url(../img/mac.png) no-repeat center top;
