@@ -327,7 +327,7 @@ input {
 #social {
 	padding-top: 25px;
 	padding-bottom: 25px;
-	background-color: #22A7F0;
+	background-color: #989898;
 }
 
 #social i {
@@ -341,7 +341,7 @@ input {
 
 /* HEADER 2 - PORTFOLIO SECTION */
 #h2 {
-	background: url(../img/header-2.jpg) no-repeat center top;
+	background: url(../img/mac.png) no-repeat center top;
 	padding-top: 5px;
 	background-attachment: relative;
 	background-position: center center;
