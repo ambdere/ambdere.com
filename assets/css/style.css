@@ -392,3 +392,13 @@ input {
     border-radius: 50%;
     width: 15%;
 }
+
+#skills {
+	padding-top: 1em;
+	text-align: center;
+}
+
+#skills i {
+	font-size: 50px;
+	margin: 0.5em;
+}
