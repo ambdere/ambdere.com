@@ -407,3 +407,15 @@ input {
 .popOut {
 	display: none;
 }
+
+#divSocial {
+	padding-left: 30px;
+}
+
+.mediumP {
+	font-size: 15px;
+}
+
+.smallP {
+	font-size: 10px;
+}

@@ -403,3 +403,15 @@ input {
 	font-size: 50px;
 	margin: 0.5em;
 }
+
+#divSocial {
+	padding-left:45px;
+}
+
+.mediumP {
+	font-size: 20px;
+}
+
+.smallP {
+	font-size: 15px;
+}
