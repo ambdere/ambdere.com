@@ -400,6 +400,10 @@ input {
 }
 
 #skills i {
+	font-size: 15px;
+}
+
+.icons {
 	font-size: 50px;
 	margin: 0.5em;
 }
